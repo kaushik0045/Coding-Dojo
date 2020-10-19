@@ -1,0 +1,44 @@
+* { 
+padding: 0%;
+
+}
+.big-box{
+    background-color: rgb(44, 4, 90);
+    height: 1500px;
+    width: 100%;
+    padding: 10px;
+}
+
+h1{
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+
+}
+.h2{
+    display: inline-block;
+}
+ .left-blue{
+     color: lightblue;
+     background-color: teal;
+     height: min-content;
+     padding: 18px;
+     width: 150px;
+     display: inline-block;
+    }
+.Right-box{
+    background-color: black;
+    padding: 20px;
+    color: blanchedalmond;
+    display: inline-block;
+    width: 1200px;
+    height: min-content;
+    margin-left: 50px;
+
+}
+
+.gray-box{
+color: lightgray;
+background-color: rgb(32, 29, 29);
+padding: 5px;
+}
